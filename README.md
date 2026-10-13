@@ -12,6 +12,7 @@ I enjoy **game development** and procedural generation most, and I'm working tow
 - **Main stack:** C# · Java · C · Unity
 - **Currently learning:** Rust · C++
 - **Location:** Planá u Mariánských Lázní, Czechia. Open to on-site work in the Plzeň region, or remote.
+- **Website:** [tomasrybak.github.io](https://tomasrybak.github.io)
 
 ---
 
@@ -19,10 +20,10 @@ I enjoy **game development** and procedural generation most, and I'm working tow
 
 | Project | What it is | Tech |
 |---|---|---|
-| [**WFC-ACO-Hybrid**](https://github.com/Tern04/WFC-ACO-Hybrid) | Bachelor's thesis. Procedural 3D environment generation that combines Wave Function Collapse with Ant Colony Optimization, so every generated level has a guaranteed traversable path. | C# · Unity 6.3 |
+| [**WFC-ACO-Hybrid**](https://github.com/tomasrybak/WFC-ACO-Hybrid) | Bachelor's thesis. Procedural 3D environment generation that combines Wave Function Collapse with Ant Colony Optimization, so every generated level has a guaranteed traversable path. | C# · Unity 6.3 |
 | [**UltimateTrackHorse**](https://github.com/KrystofZak/UltimateTrackHorse) | A Unity game built by a team of four students. | C# · Unity |
-| [**lisp-interpreter-c**](https://github.com/Tern04/lisp-interpreter-c) | A Lisp interpreter in ANSI C with a REPL, a batch mode, list operations and control flow. | C89 |
-| [**ARIA**](https://github.com/Tern04/ARIA) | A desktop HUD that lives on the wallpaper, with live widgets for system stats, timetable, mail, Discord, music and more. I designed and directed it, and Claude Code wrote the implementation. It's my hands-on way into Rust. | Rust · Tauri · JavaScript |
+| [**lisp-interpreter-c**](https://github.com/tomasrybak/lisp-interpreter-c) | A Lisp interpreter in ANSI C with a REPL, a batch mode, list operations and control flow. | C89 |
+| [**ARIA**](https://github.com/tomasrybak/ARIA) | A desktop HUD that lives on the wallpaper, with live widgets for system stats, timetable, mail, Discord, music and more. I designed and directed it, and Claude Code wrote the implementation. It's my hands-on way into Rust. | Rust · Tauri · JavaScript |
 
 ---
 
