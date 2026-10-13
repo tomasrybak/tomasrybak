@@ -9,7 +9,7 @@ Alongside my studies I **teach IT at SPŠ Tachov**: programming and practical cl
 
 I enjoy **game development** and procedural generation most, and I'm working toward a career as a software engineer.
 
-- **Main stack:** C# · Java · C · Unity
+- **Main stack:** C# · Java · Python · C · Unity
 - **Currently learning:** Rust · C++
 - **Location:** Planá u Mariánských Lázní, Czechia. Open to on-site work in the Plzeň region, or remote.
 - **Website:** [tomasrybak.github.io](https://tomasrybak.github.io)
